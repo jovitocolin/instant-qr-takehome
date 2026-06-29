@@ -1,0 +1,7 @@
+Build a webapp that chats with you about the food you're eating. After uploading a picture, it will:
+
+give a nutritional label (https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-labell) for the food
+have a back-and-forth conversation about the food
+Make sure to make the conversation feel as smooth and natural as possible.
+
+Link to Food Web-App: https://food-nutrition-chatb-0ine.bolt.host
